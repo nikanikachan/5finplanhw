@@ -7,10 +7,10 @@ In this section, I needed to create a personal financial plannning prototype for
 
 | Asset class | # of units owned | Value as of Oct 15,2020 |
 | ------ | ----------- |----------- |
-| Blockchain  | 1.2 | $15277.45 |
-| Ethereum | 5.3 | $2088.04 |
-| Stocks    | 50 | $17375.50 |
-| Bonds    | 200 |  $23594.00 |
+| Blockchain  | 1.2 | $15,277.45 |
+| Ethereum | 5.3 | $2,088.04 |
+| Stocks    | 50 | $17,375.50 |
+| Bonds    | 200 |  $23,594.00 |
 
 
 ![piechart](https://i.ibb.co/J79j2hg/Screenshot-22.png)
